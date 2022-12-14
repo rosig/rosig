@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosig&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linkedin 👋
+https://www.linkedin.com/in/rosinaldoguedes/
